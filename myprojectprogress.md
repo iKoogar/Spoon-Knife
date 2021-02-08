@@ -1,0 +1,1 @@
+I would prefer to work with a common repository. I find myself struggling with git and setting up workflows most of the time and would prefer to keep the file organization as simple as possible. One of the projects I am considering working on is a web app which a common repository should be suitable for. 
